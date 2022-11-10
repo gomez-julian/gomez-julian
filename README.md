@@ -2,6 +2,7 @@
 # Julián Gómez
 🖥️ Computer Systems Engineering student at Instituto Tecnológico de Oaxaca.
 🧪📐 Interested in data science, UI/UX design, and web development.
+🟢🏢 Working as Junior big data developer at NearBPO.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suarez_melida_/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suarez-melida/)
